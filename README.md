@@ -1,7 +1,7 @@
 # Cool-Readme
 
 If you need ideas for your README and want to make it easier, this repository contains many components you can copy and use as you like. The purpose of this repository is to help you design your README, and future versions will include templates and other useful resources.
-
+***[Learn Markdown](https://www.markdownguide.org/basic-syntax/)***
 ## Get Started
 
 If you find something great, feel free to copy the code and use it for your README. And don't forget to give us a star!
